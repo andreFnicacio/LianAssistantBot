@@ -1,4 +1,4 @@
-### Chatbot WhatsApp com Integração ao Microserviço Úrsula
+### Chatbot WhatsApp com Integração ao Microserviço Lian
 
 Este repositório contém um chatbot construído utilizando a API oficial do WhatsApp pela Meta. O chatbot é implementado em JavaScript com Node.js e está integrado ao microserviço de NER chamado Úrsula. Ele é capaz de responder perguntas frequentes (FAQ), verificar a existência de clientes no banco de dados e interagir com o microserviço caso o cliente não esteja registrado.
 
